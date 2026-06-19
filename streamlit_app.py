@@ -7,7 +7,8 @@ Run: streamlit run streamlit_app.py
 import requests
 import streamlit as st
 
-API_URL = "http://localhost:8000/chat"
+import os
+API_URL = os.getenv("API_URL", "http://localhost:8000/chat")
 
 st.set_page_config(page_title="BlueBot — Airblue Assistant", page_icon="✈️")
 
