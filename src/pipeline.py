@@ -11,8 +11,8 @@ Flow:
 from __future__ import annotations
 
 import os
-os.environ.setdefault("HF_HUB_OFFLINE", "1")
-os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
+import os
+API_URL = os.getenv("API_URL", "http://localhost:8000/chat")
 from pathlib import Path
 import sys
 import time
