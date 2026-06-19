@@ -1,0 +1,123 @@
+
+Reservations
+Travel Deals
+Destinations
+BlueMiles
+Login 
+Signup
+Passenger Rights
+
+
+Air passenger rights involve specific laws that support travelers for protection and compensation when people face flight disruptions.
+
+DOMESTIC FLIGHTS
+1. Flight Cancellation
+Whenever a passenger's flight is cancelled, the operating airline shall give the passenger a choice of either alternative transport to his final destination / re-routing or a full refund of the unutilized ticket. [Article D13 of ANO-001-ATCP-2.0]
+
+The airline shall offer hotel accommodation for the night when necessary (e.g. transit passengers / outstation passengers who do not have their own accommodation). [Article D 13 of ANO-001-ATCP-2.0]
+
+The airline may also have to compensate the passenger at the same level as for denied boarding unless it gives him sufficient advance notice (at least 12 hours before flight time). Nevertheless, the airline shall not be liable if it proves that it took all measures that could reasonably be required to avoid the cancellation or that it was impossible for it to take such measures. [Article D 13 of ANO-001-ATCP-2.0]
+
+2. Long Flight Delays
+In case of a flight delay of more than 2 to 4 hours (in proportion to flight distance), the airline shall serve refreshments/meals to passengers (according to time of day) and offer communication facilities & hotel accommodation for the night when necessary (e.g. transit passengers/outstation passengers who do not have own accommodation). [Article D 12.2.5 & D14 of ANO-001-ATCP-2.0]
+
+When the delay is more than 5 hours and the passenger decides to discontinue his journey with the airline, the airline shall offer a full refund of the unutilized ticket. [Article D 13.4 & D14 of ANO-001-ATCP-2.0]
+
+The airline's liability for damage caused by delay in the domestic carriage by air of passenger is limited to proven damages which may have been sustained due to the delay or an amount representing double the sum paid for the carriage, whichever amount may be smaller. Nevertheless, the airline shall not be liable for damage if it proves that it took all measures that could reasonably be required to avoid the damage or that it was impossible for it to take such measures. [Rule 19 & 22 (1) of The Fifth Schedule of Carriage by Air Act. 2012]
+
+3. Bagage Loss/Damage
+The airline liability for loss/damage in the domestic carriage of baggage is limited to PKR 1,000/= per kilogram. [Rule 22 (2) of The Fifth Schedule of Carriage by Air Act, 2012]
+
+A Property Irregularity Report (PIR) is to be lodged by each passenger to the airline for the missing / damaged baggage, immediately on arrival (before exiting the terminal building), along with the provision of a copy of the baggage tag number as evidence/inspection of the damaged bag or its contents by the airline.
+
+Submission of receipts of claimed baggage contents (which are allowed in checked baggage by the airline) would strengthen the lost baggage compensation claim of the passenger.
+
+4. Denied Boarding
+If a passenger reports at the airline check-in counter before the check-in deadline and fulfills all the requirements but is denied boarding (due to overbooking), the airline shall give the passenger a choice of either alternative transport to his final destination / re-routing or full refund of unutilized ticket. [Article D12.3 of ANO-001-ATCP-2 0]
+
+In addition to above, if the passenger is not a volunteer, the airline shall pay compensation to the passenger equivalent to 50% of the face value of the ticket excluding taxes. The compensation may be halved if the passenger is not delayed for more than 04 hours with an alternative transport arrangement. [Article D12.3 of ANO-001-ATCP-2.0]
+
+The airline shall offer hotel accommodation for the night when necessary (e.g. transit passengers / outstation passengers who do not have own accommodation). [Article D12.3 of ANO-001-ATCP-2.0]
+
+5. Death Or Injury Of Passenger
+The carrier is liable for damage sustained in case of death or bodily injury of a passenger upon condition only that the accident which caused the death or injury took place on board the aircraft or in the course of any of the operations of embarking or disembarking. [Rule 17 (1) of The Fifth Schedule of Carriage by Air Act, 2012]
+
+The airline's liability is as per Article 21 of The Fifth Schedule of Carriage by Air Act, 2012.
+
+
+
+INTERNATIONAL FLIGHTS
+1. Flight Cancellation
+Whenever a passenger's flight is cancelled, the operating airline shall give the passenger a choice of either alternative transport to his final destination / re-routing or full refund of unutilized ticket. [Article D13 of ANO-001-ATCP-2.0]
+
+The airline shall offer hotel accommodation for the night when necessary (e.g. transit passengers /outstation passengers who do not have own accommodation). [Article D 13 of ANO-001-ATCP-2.0]
+
+The airline may also have to compensate the passenger at the same level as for denied boarding unless it gives him sufficient advance notice (at least 12 hours before flight time). Nevertheless, the airline shall not be liable if it proves that it took all measures that could reasonably be required to avoid the cancellation or that it was impossible for it to take such measures. [Article D 13 of ANO-001-ATCP-2.0]
+
+2. Denied Boarding
+If a passenger reports at the check-in counter before the check-in deadline and fulfills all the requirements but is denied boarding (due to overbooking), the airline shall give the passenger a choice of either alternative transport to his final destination / re-routing or full refund of unutilized ticket. [Article D12.3 of ANO-001-ATCP-2.0]
+
+In addition to the above, if the passenger is not a volunteer, the airline shall pay compensation to the passenger equivalent to 50% of the face value of the ticket excluding taxes. The compensation may be halved if the passenger is not delayed for more than 04 hours with alternative transport arrangement. [Able D12.3 of ANO-001-ATCP-2.0]
+
+The airline shall offer hotel accommodation for the night when necessary (e.g. transit passengers / outstation passengers who do not have own accommodation). [Article D12.3 of ANO-001-ATCP-2.0]
+
+3. Long Flight Delays
+In case of flight delay of more than 2 to 4 hours (in proportion to flight distance), the airline shall serve refreshments / meals to passengers (according to time of day) and offer communication facilities & hotel accommodation for the night when necessary (e.g. transit passengers / outstation passengers who do not have own accommodation). [ Article D 12.2.5 & D14 of ANO-001-ATCP-2.0]
+
+When the delay is more than 5 hours and the passenger decides to discontinue his journey with the airline, the airline shall offer full refund of the unutilized ticket. [Article D 13.4 & D14 of ANO-001-ATCP-2.0]
+
+The airline's liability for damage caused by delay in international carriage by air of passenger is limited to 4,150 Special Drawing Rights (SDR). Nevertheless, the airline shall not be liable for damage if it proves that it took all measures that could reasonably be required to avoid the damage or that it was impossible for it to take such measures. Article 19 & 22 (1) of The Montreal Convention, 1999 Rule 19 & 22 (1) of The Fourth Schedule of Carriage by Air Act, 2012]
+
+4. Death Or Injury Of Passenger
+The carrier is liable for damage sustained in case of death or bodily injury of a passenger upon condition only that the accident which caused the death or injury took place on board the aircraft or in the course of any of the operations of embarking or disembarking. [Article 17(1) of The Montreal Convention, 1999 / Rule 17 (1) of The Fourth Schedule of Carriage by Air Act, 2012]
+
+The airline liability is as per Article 21 of The Montreal Convention, 1999 / Rule 21 of The Fourth Schedule of Carriage by Air Act, 2012.
+
+5.Bagage Loss/ Damage/ Delay
+The airline's liability for loss/damage/delay in international carriage of baggage will be determined in line with Montreal Convention and Warsaw Convention based on the merits of each case. [Article 19 & 22 (2) of The Montreal Convention, 1999 / Rule 19 & 22 (2) of The Fourth Schedule of Carriage by Air Act, 2012]
+
+A Property Irregularity Report (PIR) is to be lodged by each passenger to the airline for the missing/delayed/damaged baggage, immediately on arrival (before exiting terminal building), along with provision of copy of baggage tag number as evidence/inspection of damaged bag or its contents by airline.
+
+Submission of receipts of claimed baggage contents (which are allowed in checked baggage by airline) would strengthen the lost baggage compensation claim of the passenger.
+
+
+For further clarifications, please refer to passenger rights documents below.
+
+ANO Air Passenger Rights
+GACA Passenger Rights Regulations
+
+
+
+
+Airblue
+Our Journey
+Corporate Information
+Blue News
+Careers
+Airblue HDQ:
+ ISE Towers, 55-B Jinnah Ave, ISB
+Services
+Travel Info
+Flight Status
+Travel Agents
+Customer Service
+Contact Us
+Privacy Policy
+Legal Terms & Conditions
+Health and Travel Guidelines
+Passenger Rights
+Subscribe/Unsubscribe to Emails
+Help
+Stay Connected
+Subscribe to our Special offers
+subscribe
+Download our app to manage flights
+Google Play
+App Store
+Airblue on Facebook
+Airblue on LinkedIn
+Airblue on Twitter
+Airblue on Instagram
+Airblue on TikTok
+©Airblue 2026. All Rights Reserved.
+
